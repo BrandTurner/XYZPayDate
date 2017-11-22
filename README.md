@@ -1,7 +1,7 @@
 # XYZPayDate
 
 # Installation
-After cloning the repo, issue the command `composer install` from the terminal.
+After cloning the repo, issue the command `composer install` from the terminal and run `index.php`
 
 ## Next Steps
  Stretch Goals
